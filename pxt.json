@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "mbit": "github:lzty634158/yahboom_mbit_en#13905ad867482605f4e734dbfb9eb7b637f3b322",
-        "microphone": "*"
+        "microphone": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
